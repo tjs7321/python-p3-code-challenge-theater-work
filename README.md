@@ -70,6 +70,8 @@ build out any helper methods if needed.
     - Returns the actor for the `Audition` instance
     - Actor must be a string between 3 and 20 characters.
     - `raise Exception` if validation fails
+- `Audition class attribute all`
+    - Returns a list of all auditions
   
 ### Object Relationship Attributes and Properties
 
